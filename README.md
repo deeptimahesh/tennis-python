@@ -1,2 +1,2 @@
 # tennis-python
-assignment done for ITWS 2
+An assignment done for ITWS 2
